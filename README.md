@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuhammedAshrafM](https://github.com/MuhammedAshrafM)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/MuhammedAshrafM?tab=repositories)
 
-- 📝 Latest CV [https://drive.google.com/drive/folders/1VYKrL3ZleYejbAWDfZwJBIpZeW_Il0ds?usp=sharing](https://drive.google.com/drive/folders/1VYKrL3ZleYejbAWDfZwJBIpZeW_Il0ds?usp=sharing)
+- 📝 Latest CV [Resume](https://drive.google.com/drive/folders/1VYKrL3ZleYejbAWDfZwJBIpZeW_Il0ds?usp=sharing)
 
 - 📫 How to reach me **muhammedashraf9621@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammed-ashraf-54ba2115b/](https://www.linkedin.com/in/muhammed-ashraf-54ba2115b/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/muhammed-ashraf-54ba2115b/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
