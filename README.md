@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammed Ashraf</h1>
 <h3 align="center">A passionate Android Developer from Egypt</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedashrafm" alt="muhammedashrafm" /></a> </p>
+
 - 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Jetpack Compose / Testing**
